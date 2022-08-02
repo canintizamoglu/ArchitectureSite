@@ -1,0 +1,61 @@
+.nav-link {
+    color: azure;
+}
+
+.box {
+    margin-top: 200px;
+}
+
+.box-1 {
+    text-align: center;
+    width: 450px;
+    margin: 200px;
+    padding: 70px 50px;
+}
+
+.row {
+    width: 700px;
+}
+
+body {
+    font-family: Lora, serif;
+    font-size: calc(14px + 0.3vw);
+    background-image: url(https://wallpaperaccess.com/full/3955526.jpg);
+    color: aliceblue;
+
+}
+
+.footer {
+    background: black;
+    height: 40px;
+    display: flex;
+}
+
+#footer .footer ul li a {
+    color: aliceblue;
+
+}
+
+#footer .footer ul li {
+    width: 30px;
+    align-items: center;
+    display: inline-block;
+}
+
+#footer .footer p {
+    color: white;
+}
+
+#footer .footer p span {
+    color: red;
+}
+
+.nav-item:hover {
+    opacity: 0.6;
+    border-radius: 6px;
+    background: lightblue;
+}
+
+.img .image {
+    width: 100%
+}

@@ -1,0 +1,40 @@
+.box {
+    margin: 10px 20px;
+}
+
+body {
+    color: aliceblue;
+    background-image: url(https://wallpaperaccess.com/full/3955526.jpg);
+}
+
+
+
+.footer {
+    background: black;
+    width: 99vw;
+    height: 40px;
+    display: flex;
+    z-index: 121;
+    justify-content: center;
+    margin-top: 9px;
+
+}
+
+#footer .footer ul li a {
+    color: aliceblue;
+
+}
+
+#footer .footer ul li {
+    width: 30px;
+    align-items: center;
+    display: inline-block;
+}
+
+#footer .footer p {
+    color: white;
+}
+
+#footer .footer p span {
+    color: red;
+}
